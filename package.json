@@ -1,0 +1,34 @@
+{
+  "name": "orm-mysql2",
+  "version": "1.0.0",
+  "description": "nodejs orm mysql2 adapter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lifeng-Liang/node-orm-mysql2.git"
+  },
+  "keywords": [
+    "orm",
+    "mysql2",
+    "adapter"
+  ],
+  "author": {
+    "name": "Lifeng Liang",
+    "email": "lifeng.liang@gmail.com",
+    "url": "https://github.com/Lifeng-Liang"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lifeng-Liang/node-orm-mysql2/issues"
+  },
+  "homepage": "https://github.com/Lifeng-Liang/node-orm-mysql2#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mysql2": "^1.3.6",
+    "sql-ddl-sync": "^0.3.12",
+    "sql-query": "^0.1.26"
+  }
+}
